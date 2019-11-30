@@ -2,7 +2,7 @@ INSTRUCTIONS: To "run" this text file, open up command prompt
     1. In this folder on windsows, hold down shift and right click in the folder
     2. Select open a powershell window in this folder (it might say command prompt window, sorry i have a mac)
     3. in the window that pops up, you can type commands
-    4. type "cat start.txt" into the window, and it will print out this file in the window.
+    4. type "cat start.txt" into the window, press enter, and it will print out this file in the window. If it doesn't work, try "type start.txt" or "print start.txt" idk man windows is weird. Worst case scenario, just film scrolling through? 
 Everything below this is just dummy text but it will look good hopefully
 
 [LOADING] ... 
@@ -19,7 +19,7 @@ Everything below this is just dummy text but it will look good hopefully
 [LOADING] .......
 [LOADING] .......
 
-[MESSAGE] Something went off plan I guess? but idk you're still doing good just let it run y'all
+[MESSAGE] I'd recommend downloading visual studio code, it's pretty lightweight and you can pick a cool theme in settings. Also put up https://github.com/achaltin/webseries_demo, and a command prompt window. Shit looks real.
 [MESSAGE] If you want to "edit" this website, click the "columns" button, and pretend you're deciding on a column layout or not
 
 [LOADING] ... 
@@ -72,6 +72,10 @@ You can change the 565 or -53 to other values, but make sure the px is there
 [TEST] 12 - PASS
 [TEST] 13 - PASS
 [TEST] 14 - PASS
-
-
+                                 
+ ___ _   _  ___ ___ ___  ___ ___ 
+/ __| | | |/ __/ __/ _ \/ __/ __|
+\__ \ |_| | (_| (_|  __/\__ \__ \
+|___/\__,_|\___\___\___||___/___/
+                                 
 
