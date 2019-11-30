@@ -2,6 +2,20 @@
  * Font Awesome Free 5.8.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
+ .mt-0{
+   margin-top:0 !important;
+ }
+ /*
+  * You can change these numbers to adjust where the button that says Columns is!
+  */
+ #colButton{
+  position: absolute;
+  left: 565px;
+  top: -53px;
+ }
+ .about-text{
+   position: relative;
+ }
 .fa,
 .fas,
 .far,

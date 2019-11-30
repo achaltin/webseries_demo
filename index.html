@@ -96,7 +96,7 @@
               <div class="banner_text_iner">
                 <h5>Expensive but the best</h5>
                 <h1>Modern restaurant in center of the city</h1>
-                <a href="#" class="btn_1">book a table</a>
+                <a href="#" class="btn_1" onclick="alert('DEBUG: RESERVATION SYSTEM');">book a table</a>
               </div>
             </div>
           </div>
@@ -114,17 +114,22 @@
               <div class="row align-items-center">
                 <div class="col-lg-7">
                   <div class="about_text">
+                    <button type="button" id="colButton" class="btn_1 mt-0" onclick="switchCols();">
+                      Columns
+                    </button>
                     <h5>about us</h5>
                     <h2>Delicious food provider since 1990</h2>
-                    <p>
-                      Good lights it very to above. Days image to sea. Over
-                      there seasons and spirit beast in. Greater bearing
-                      creepeth very behold fourth night morning seed moved.
-                    </p>
-                    <p>
-                      Good lights it very to above. Days image to sea. Over
-                      seasons and spirit beast in over greater bearing creepeth.
-                    </p>
+                    <div id="parent" class="">
+                        <p id="col1" class="col">
+                            Good lights it very to above. Days image to sea. Over
+                            there seasons and spirit beast in. Greater bearing
+                            creepeth very behold fourth night morning seed moved.
+                          </p>
+                          <p id="col2" class="col">
+                            Good lights it very to above. Days image to sea. Over
+                            seasons and spirit beast in over greater bearing creepeth.
+                          </p>
+                    </div>
                     <a href="#" class="btn_3">learn More</a>
                   </div>
                 </div>
@@ -523,5 +528,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     <script src="js/jquery.nice-select.min.js"></script>
     <!-- custom js -->
     <script src="js/custom.js"></script>
+    <script src="js/script.js"></script>
   </body>
 </html>
