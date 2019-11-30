@@ -164,7 +164,7 @@ a {
 
 /* line 83, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_common.scss */
 a:hover {
-  color: #d6ad86 !important;
+  color: #BBB5BD !important;
   text-decoration: none;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -336,7 +336,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
 
 /* line 196, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_common.scss */
 .section_tittle p {
-  color: #d6ad86;
+  color: #BBB5BD;
   font-size: 16px;
   margin-bottom: 7px;
 }
@@ -509,7 +509,7 @@ ul {
   outline: none !important;
   box-shadow: none !important;
   text-align: center;
-  border: 1px solid #fdcb9e;
+  border: 1px solid #553555;
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -524,7 +524,7 @@ ul {
 .btn_1 {
   display: inline-block;
   padding: 23px 60px;
-  background-color: #d6ad86;
+  background-color: #BBB5BD;
   font-size: 14px;
   font-weight: 400;
   color: #fff;
@@ -537,7 +537,7 @@ ul {
 /* line 34, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_button.scss */
 .btn_1:hover {
   color: #fff;
-  background-color: #ffb830;
+  background-color: #755B69;
 }
 
 @media (max-width: 991px) {
@@ -628,7 +628,7 @@ ul {
 
 /* line 123, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_button.scss */
 .btn_3:hover {
-  background-color: #ffb830;
+  background-color: #755B69;
   color: #fff;
 }
 
@@ -648,7 +648,7 @@ ul {
 /* line 149, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_button.scss */
 .btn_4:hover {
   color: #fff;
-  background-color: #ffb830;
+  background-color: #755B69;
 }
 
 /* line 152, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_button.scss */
@@ -666,9 +666,9 @@ ul {
   padding: 12px 54px;
   border-radius: 4px;
   color: #fff;
-  border: 1px solid #d6ad86;
+  border: 1px solid #BBB5BD;
   text-transform: uppercase;
-  background-color: #d6ad86;
+  background-color: #BBB5BD;
   cursor: pointer;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -704,7 +704,7 @@ ul {
 /* line 209, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_button.scss */
 .button-header {
   color: #fff;
-  border-color: #fdcb9e;
+  border-color: #553555;
 }
 
 /* line 213, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_button.scss */
@@ -716,7 +716,7 @@ ul {
 /* line 219, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_button.scss */
 .button-contactForm {
   color: #fff;
-  border-color: #fdcb9e;
+  border-color: #553555;
   padding: 12px 25px;
 }
 
@@ -745,7 +745,7 @@ ul {
 
 /* line 16, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .blog_area a h2:hover {
-  color: #d6ad86 !important;
+  color: #BBB5BD !important;
 }
 
 /* line 24, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
@@ -799,7 +799,7 @@ ul {
 
 /* line 65, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .single-blog a:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 70, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
@@ -869,7 +869,7 @@ ul {
 
 /* line 125, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .single-blog .single-blog-content .meta-bottom i {
-  color: #fdcb9e;
+  color: #553555;
   font-size: 13px;
   margin-right: 7px;
 }
@@ -1261,7 +1261,7 @@ ul {
 
 /* line 548, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .blog_details a:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 553, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
@@ -1329,7 +1329,7 @@ ul {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #d6ad86;
+  background-color: #BBB5BD;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -1502,7 +1502,7 @@ ul {
 
 /* line 781, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .blog_right_sidebar .post_category_widget .cat-list li:hover a {
-  color: #d6ad86 !important;
+  color: #BBB5BD !important;
 }
 
 /* line 791, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
@@ -1522,7 +1522,7 @@ ul {
 
 /* line 807, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .blog_right_sidebar .popular_post_widget .post_item .media-body a:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 813, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
@@ -1557,7 +1557,7 @@ ul {
 
 /* line 841, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #d6ad86 !important;
+  background: #BBB5BD !important;
   color: #fff !important;
 }
 
@@ -1801,7 +1801,7 @@ ul {
 
 /* line 1204, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
 .single-post-area .blog-author a:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 1209, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog.scss */
@@ -2127,7 +2127,7 @@ ul {
 /* line 10, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_single_blog.scss */
 .single_blog_post .single_blog .single_appartment_content {
   padding: 38px 38px 23px;
-  border: 0px solid #fdcb9e;
+  border: 0px solid #553555;
   box-shadow: 0px 10px 20px 0px rgba(221, 221, 221, 0.3);
 }
 
@@ -2140,7 +2140,7 @@ ul {
 
 /* line 18, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_single_blog.scss */
 .single_blog_post .single_blog .single_appartment_content p a {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 22, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_single_blog.scss */
@@ -2230,7 +2230,7 @@ ul {
 
 /* line 39, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_menu.scss */
 .main_menu .main-menu-item ul li a:hover {
-  color: #d6ad86 !important;
+  color: #BBB5BD !important;
 }
 
 /* line 47, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_menu.scss */
@@ -2258,7 +2258,7 @@ ul {
   position: fixed;
   z-index: 9999 !important;
   width: 100%;
-  background-color: #d6ad86;
+  background-color: #553555;
   box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.05);
   top: 0;
 }
@@ -2270,7 +2270,7 @@ ul {
 
 /* line 76, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_menu.scss */
 .menu_fixed .btn_1 {
-  border: 2px solid #d6ad86;
+  border: 2px solid #BBB5BD;
 }
 
 /* line 78, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_menu.scss */
@@ -2416,7 +2416,7 @@ ul {
 .banner_part .banner_text h5 {
   font-size: 18px;
   text-transform: capitalize;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
 }
@@ -2469,7 +2469,7 @@ ul {
 
 /* line 69, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_banner.scss */
 .banner_part .banner_text h1 span {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /**************** hero part css end ****************/
@@ -2576,7 +2576,7 @@ ul {
 .about_part .about_text h5 {
   font-size: 18px;
   text-transform: capitalize;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
 }
@@ -2764,7 +2764,7 @@ ul {
   display: block;
   width: 80px;
   height: 80px;
-  background: #d6ad86;
+  background: #BBB5BD;
   border-radius: 50%;
   animation: pulse-border 1500ms ease-out infinite;
 }
@@ -2780,7 +2780,7 @@ ul {
   display: block;
   width: 80px;
   height: 80px;
-  background: #d6ad86;
+  background: #BBB5BD;
   border-radius: 50%;
   transition: all 200ms;
 }
@@ -3040,7 +3040,7 @@ sup,
 sub,
 u,
 del {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 93, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -3212,28 +3212,28 @@ h6 {
 /* line 217, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary {
   color: #fff;
-  background: #d6ad86;
+  background: #BBB5BD;
   border: 1px solid transparent;
 }
 
 /* line 221, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary:hover {
-  color: #d6ad86;
-  border: 1px solid #d6ad86;
+  color: #BBB5BD;
+  border: 1px solid #BBB5BD;
   background: #fff;
 }
 
 /* line 227, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary-border {
-  color: #d6ad86;
-  border: 1px solid #d6ad86;
+  color: #BBB5BD;
+  border: 1px solid #BBB5BD;
   background: #fff;
 }
 
 /* line 231, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #d6ad86;
+  background: #BBB5BD;
   border: 1px solid transparent;
 }
 
@@ -3391,7 +3391,7 @@ h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #d6ad86;
+  border-left: 2px solid #BBB5BD;
 }
 
 /* line 353, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -3546,7 +3546,7 @@ h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #d6ad86;
+  border: 3px solid #BBB5BD;
   background: #fff;
   top: 4px;
   left: 0;
@@ -3561,7 +3561,7 @@ h6 {
 /* line 475, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -3576,7 +3576,7 @@ h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -3591,7 +3591,7 @@ h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -3674,7 +3674,7 @@ h6 {
 /* line 568, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #d6ad86;
+  border: 1px solid #BBB5BD;
 }
 
 /* line 574, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -3742,7 +3742,7 @@ h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #d6ad86;
+  background: #BBB5BD;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -3833,7 +3833,7 @@ h6 {
 
 /* line 696, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .primary-switch input:checked + label:before {
-  background: #d6ad86;
+  background: #BBB5BD;
 }
 
 /* line 704, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -4220,13 +4220,13 @@ h6 {
 
 /* line 1022, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .default-select .nice-select .list .option.selected {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
 /* line 1026, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .default-select .nice-select .list .option:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
@@ -4283,13 +4283,13 @@ h6 {
 
 /* line 1067, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .form-select .nice-select .list .option.selected {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
 /* line 1071, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .form-select .nice-select .list .option:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
@@ -4433,12 +4433,12 @@ h6 {
 
 /* line 80, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_review.scss */
 .review_part .review_icon i {
-  color: #ffb830;
+  color: #755B69;
 }
 
 /* line 86, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_review.scss */
 .review_part .center .client_review_text p {
-  border: 1px solid #d6ad86;
+  border: 1px solid #BBB5BD;
 }
 
 /* line 88, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_review.scss */
@@ -4449,7 +4449,7 @@ h6 {
   bottom: -15px;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-  border-top: 15px solid #d6ad86;
+  border-top: 15px solid #BBB5BD;
   border-bottom-left-radius: 100px;
 }
 
@@ -4470,7 +4470,7 @@ h6 {
 
 /* line 111, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_review.scss */
 .review_part .owl-dots .active {
-  color: #d6ad86 !important;
+  color: #BBB5BD !important;
 }
 
 /**************** blog part css start ****************/
@@ -4504,12 +4504,12 @@ h6 {
 
 /* line 23, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog_part.scss */
 .blog_item_section .single_blog_item:hover .btn_3 {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 25, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog_part.scss */
 .blog_item_section .single_blog_item:hover .btn_3 a {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 28, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog_part.scss */
@@ -4598,7 +4598,7 @@ h6 {
 
 /* line 93, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog_part.scss */
 .blog_section .single_blog_text .date .date_item span {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 98, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_blog_part.scss */
@@ -4655,7 +4655,7 @@ h6 {
 
 /* line 9, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_copyright_part.scss */
 .copyright_part a {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 @media (max-width: 576px) {
@@ -4744,7 +4744,7 @@ h6 {
 
 /* line 23, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_contact.scss */
 .contact-info .media-body h3 a:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 29, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_contact.scss */
@@ -4868,7 +4868,7 @@ sup,
 sub,
 u,
 del {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 93, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -5040,28 +5040,28 @@ h6 {
 /* line 217, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary {
   color: #fff;
-  background: #d6ad86;
+  background: #BBB5BD;
   border: 1px solid transparent;
 }
 
 /* line 221, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary:hover {
-  color: #d6ad86;
-  border: 1px solid #d6ad86;
+  color: #BBB5BD;
+  border: 1px solid #BBB5BD;
   background: #fff;
 }
 
 /* line 227, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary-border {
-  color: #d6ad86;
-  border: 1px solid #d6ad86;
+  color: #BBB5BD;
+  border: 1px solid #BBB5BD;
   background: #fff;
 }
 
 /* line 231, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .genric-btn.primary-border:hover {
   color: #fff;
-  background: #d6ad86;
+  background: #BBB5BD;
   border: 1px solid transparent;
 }
 
@@ -5219,7 +5219,7 @@ h6 {
 .generic-blockquote {
   padding: 30px 50px 30px 30px;
   background: #f9f9ff;
-  border-left: 2px solid #d6ad86;
+  border-left: 2px solid #BBB5BD;
 }
 
 /* line 353, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -5374,7 +5374,7 @@ h6 {
   position: absolute;
   width: 14px;
   height: 14px;
-  border: 3px solid #d6ad86;
+  border: 3px solid #BBB5BD;
   background: #fff;
   top: 4px;
   left: 0;
@@ -5389,7 +5389,7 @@ h6 {
 /* line 475, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .ordered-list li {
   list-style-type: decimal-leading-zero;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -5404,7 +5404,7 @@ h6 {
 .ordered-list-alpha li {
   margin-left: 30px;
   list-style-type: lower-alpha;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -5419,7 +5419,7 @@ h6 {
 .ordered-list-roman li {
   margin-left: 30px;
   list-style-type: lower-roman;
-  color: #d6ad86;
+  color: #BBB5BD;
   font-weight: 500;
   line-height: 1.82em !important;
 }
@@ -5502,7 +5502,7 @@ h6 {
 /* line 568, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .single-input-primary:focus {
   outline: none;
-  border: 1px solid #d6ad86;
+  border: 1px solid #BBB5BD;
 }
 
 /* line 574, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -5570,7 +5570,7 @@ h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #d6ad86;
+  background: #BBB5BD;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -5661,7 +5661,7 @@ h6 {
 
 /* line 696, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .primary-switch input:checked + label:before {
-  background: #d6ad86;
+  background: #BBB5BD;
 }
 
 /* line 704, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
@@ -6048,13 +6048,13 @@ h6 {
 
 /* line 1022, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .default-select .nice-select .list .option.selected {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
 /* line 1026, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .default-select .nice-select .list .option:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
@@ -6111,13 +6111,13 @@ h6 {
 
 /* line 1067, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .form-select .nice-select .list .option.selected {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
 /* line 1071, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_elements.scss */
 .form-select .nice-select .list .option:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
   background: transparent;
 }
 
@@ -6231,7 +6231,7 @@ h6 {
 /* line 43, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_breadcrumb.scss */
 .breadcrumb .breadcrumb_iner .breadcrumb_iner_item p {
   font-size: 15px;
-  color: #d6ad86;
+  color: #BBB5BD;
   text-transform: capitalize;
 }
 
@@ -6248,7 +6248,7 @@ h6 {
 
 /* line 2, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
 .footer-area {
-  background-color: #1c1a18;
+  background-color: #553555;
   padding: 100px 0px 25px;
 }
 
@@ -6322,7 +6322,7 @@ h6 {
 
 /* line 45, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
 .footer-area .single-footer-widget ul li a:hover {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 49, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
@@ -6359,7 +6359,7 @@ h6 {
 
 /* line 75, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
 .footer-area .single-footer-widget .click-btn {
-  background-color: #d6ad86;
+  background-color: #BBB5BD;
   color: #fff;
   border-radius: 0;
   border-top-left-radius: 0px;
@@ -6432,7 +6432,7 @@ h6 {
 
 /* line 127, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
 .footer-area .btn {
-  background-color: #d6ad86;
+  background-color: #BBB5BD;
   color: #fff;
   width: 49px;
   border-radius: 0px;
@@ -6494,7 +6494,7 @@ h6 {
 
 /* line 168, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
 .footer-area .copyright_part_text a {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 @media (max-width: 576px) {
@@ -6541,7 +6541,7 @@ h6 {
 
 /* line 201, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
 .footer-area .footer_1 span {
-  color: #d6ad86;
+  color: #BBB5BD;
 }
 
 /* line 204, /Applications/MAMP/htdocs/palash/cl/july 2019/july/194 Restaurant/194 Restaurant html/sass/_footer.scss */
